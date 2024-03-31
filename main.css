@@ -1,0 +1,30 @@
+h1 
+{
+    color: rgb(51, 100, 114);
+    font-family: sans-serif;
+}
+
+.code-class
+{
+    color:green;
+}
+
+code {
+    font-family: monospace;
+    color: red;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+li:not(li:first-of-type)
+{
+    background-color: black;
+    color:white;
+}
+ol li
+{
+    background-color: black;
+        color: white;
+}
